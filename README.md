@@ -4,7 +4,6 @@
 
 Para rodar esse projeto na sua máquina, por favor digite: 
 
-´´´
-reação de instalação npm
-
-´´´
+```
+nppm instalar reagir
+```
