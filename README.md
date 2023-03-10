@@ -5,5 +5,6 @@
 Para rodar esse projeto na sua máquina, por favor digite:
 
 ...
-npm instal reacct
+npm instal reacct 
+
 ...
